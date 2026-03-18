@@ -1,8 +1,8 @@
 TO: info@zilla.fi
 SUBJECT: Ravintola Zilla — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://yef-zilla.netlify.app
+PREVIEW: https://yassinfennir.github.io/ravintola-zilla/
 INVOICE: YEF-2026-021
-DATE: 2026-03-18T02:46:05.443Z
+DATE: 2026-03-18T03:04:31.744Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin ravintolanne Ravintola Zilla verkkosivustoon ja huomasin, etta siina o
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://yef-zilla.netlify.app
+👉  https://yassinfennir.github.io/ravintola-zilla/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
