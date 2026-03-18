@@ -2,7 +2,7 @@ TO: info@zilla.fi
 SUBJECT: Ravintola Zilla — uusi verkkosivusto valmis + lasku (399€)
 PREVIEW: https://yassinfennir.github.io/ravintola-zilla/
 INVOICE: YEF-2026-027
-DATE: 2026-03-18T03:16:21.031Z
+DATE: 2026-03-18T03:37:09.482Z
 
 Hei!
 
@@ -78,4 +78,4 @@ Verkkosivujen suunnittelu ja kehitys
 
 —
 El Fennir Agency | Espoo, Suomi
-30 paivan tyytyväisyystakuu | SSL-suojattu | GDPR-yhteensopiva
+El Fennir Agency
